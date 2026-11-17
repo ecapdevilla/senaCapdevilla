@@ -72,17 +72,18 @@
    - Vinculación: desde 23/01/2026, contrato a término fijo.  
    - Soporte: `certificacion biffi lasalle.pdf`.
 3. Colegio San José Hermanitas de la Anunciación – Docente de Informática (Bachillerato 6º–11º)  
-   - Funciones: planificación y enseñanza de informática, integración de TIC, evaluación académica con plataformas digitales, gestión de recursos tecnológicos, informes, capacitación a docentes en TIC, participación institucional.  
-   - Tiempo: 1 año y 2 meses.  
-   - Soporte: **[PENDIENTE DE DESCARGA]** (constancia/certificación laboral del colegio).
-4. Fundación GenteDeMente – Instructor de programación  
-   - Funciones: planificación y desarrollo de talleres/lecciones, evaluación de aprendices, orientación académica, participación en actividades y concursos, capacitación continua.  
-   - Tiempo: 1 año y 10 meses.  
-   - Soporte: `Certificado laboral fundacion GenteDe Mente.pdf`.
-5. IONER SAS – Especialista en desarrollo de software y soporte tecnológico  
-   - Funciones: administración de sistemas de información y bases de datos SQL, desarrollo backend/frontend, soporte técnico integral, documentación, seguridad informática, integración de APIs, asesoría tecnológica.  
-   - Tiempo: 2 años.  
-   - Soporte: **[PENDIENTE DE DESCARGA]** (certificado laboral de IONER SAS).
+   - Periodos: 18/07/2022 – 09/12/2022 y 23/01/2023 – 30/11/2023 (contrato a término fijo, tiempo completo).  
+   - Funciones: planificación y desarrollo de clases en informática, orientación académica, gestión de recursos tecnológicos y plataformas educativas, evaluación y análisis de datos académicos, informes académicos/técnicos, capacitación a estudiantes y docentes en TIC, participación institucional.  
+   - Soporte: `Documents/Colegio san jose hermanitas de la anunciacion.pdf`.
+4. Fundación Gente de Mente – Instructor de programación y formador en competencias digitales (prestación de servicios)  
+   - Periodos: 2019 (04/02–29/11), 2020 (03/02–27/11), 2021 (01/02–30/06 y 15/07–15/12), 2022 (01/02–02/06), 2023 (06/02–01/12), 2024 (05/02–29/11), 2025 (03/02–28/11).  
+   - Funciones: planear, diseñar y ejecutar procesos formativos virtuales/presenciales en programación, desarrollo de software, pensamiento computacional y competencias digitales; estructurar/actualizar contenidos académicos y recursos digitales; implementar estrategias pedagógicas y tecnológicas.  
+   - Contraprestación: $4.500.000 COP/mes.  
+   - Soporte: `Documents/fundaicon gente de mente.pdf` (certificación, 3 páginas).
+5. IONER S.A.S. – Especialista en desarrollo de software y soporte tecnológico (prestación de servicios)  
+   - Periodos: 01/02/2020 – 30/11/2021; 04/01/2021 – 30/11/2021; 17/01/2022 – 24/06/2022.  
+   - Funciones: desarrollo de software y soluciones tecnológicas, diseño/implementación/mantenimiento de bases de datos, integración y desarrollo de APIs, asesoría técnica y capacitación a equipos internos, documentación de procesos e informes.  
+   - Soporte: `Documents/Ioner sas.pdf` (certificación 20/11/2024).
 
 ## 6. Competencias laborales (normas)
 - Norma de competencia laboral certificada por el SENA **[PENDIENTE DE DESCARGA]** (código y nombre por confirmar). Soporte: constancia/certificado SENA.

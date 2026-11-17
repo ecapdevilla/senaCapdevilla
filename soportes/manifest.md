@@ -16,8 +16,9 @@
 - `Downloads/CARTA SENA.pdf` – SENA (coordinador apoyo operativo/administrativo)
 - `Downloads/certificacion biffi lasalle.pdf` – La Salle (docente Tecnología e Informática, vigente)
 - `Downloads/Certificado laboral fundacion GenteDe Mente.pdf` – Fundación GenteDeMente (instructor programación)
-- `[PENDIENTE]` – Colegio San José Hermanitas de la Anunciación (docente informática)
-- `[PENDIENTE]` – IONER SAS (especialista desarrollo software)
+- `Documents/Colegio san jose hermanitas de la anunciacion.pdf` – Colegio San José (docente informática, 2022–2023)
+- `Documents/Ioner sas.pdf` – IONER SAS (especialista desarrollo software, 2020–2022)
+- `Documents/fundaicon gente de mente.pdf` – Fundación Gente de Mente (instructor programación, 2019–2025)
 
 ## Capacitación
 - `Downloads/diplo.pdf` – Diplomado en Docencia Virtual (23/11/2024)
