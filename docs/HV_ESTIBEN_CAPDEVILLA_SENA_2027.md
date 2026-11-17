@@ -60,7 +60,7 @@
 - `Pictures/diploma bachiller.pdf`, `Pictures/diploma profesional.pdf` (escaneados).
 
 ## 4. Idiomas
-- Idioma: Inglés (nivel A2 aprox.) – soporte: certificado de universidad (no oficial nacional) **[PENDIENTE DE DESCARGA]**. Nivel a registrar según el certificado.
+- Idioma: Inglés – Nivel **B1** (certificado de curso intensivo "Let it Flow – Nivel B1 Intensivo", 96 horas, nota 4,7, 2º semestre 2026). Soporte: `Downloads/020_ESTIBEN_RAFAEL_CAPDEVILLA_PACHECO (1).pdf` (Fundación Universitaria del Área Andina).
 
 ## 5. Experiencia laboral
 1. SENA – Coordinador de Apoyo Operativo y Administrativo (Sede de Construcción)  

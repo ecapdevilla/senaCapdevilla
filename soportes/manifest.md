@@ -35,7 +35,7 @@
 - `Downloads/ADMINISTRACION Y CONTROL DE INVENTARIO.pdf` (40 h, 29/05/2024)
 
 ## Idiomas
-- `[PENDIENTE]` – certificado de inglés (nivel A2 aprox.)
+- `Downloads/020_ESTIBEN_RAFAEL_CAPDEVILLA_PACHECO (1).pdf` – Inglés B1 (curso intensivo "Let it Flow", 96 h, nota 4,7, 2º sem 2026)
 
 ## Competencias laborales (normas)
 - `Downloads/comptencia laboral sena.pdf` – Norma 240201056: Orientar formación presencial (Nivel Avanzado), 25/08/2025
