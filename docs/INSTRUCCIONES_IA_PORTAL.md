@@ -44,3 +44,18 @@ Registrar la hoja de vida de **Estiben Rafael Capdevila Pacheco** (CC 1.048.273.
 - Constancia IONER SAS.
 - Competencia laboral SENA.
 - Certificado de idioma.
+
+## Detalles clave del video explicativo (Juan Felipe Guerrero, nov 2026)
+- Contraseña: 14+ caracteres, mayúscula, minúscula, número, carácter especial, distinta al usuario (tipo+número de documento).
+- Antes de empezar: documento, correo activo, soportes PDF/JPG/PNG ≤10 MB.
+- Educación: si institución/programa/título no aparece, marcar casilla y escribirlo.
+- Capacitación: tipos (diplomado, curso, certificado de aptitud profesional, especialidad campesino instructor); buscar por nombre; si no existe, ingreso manual. Campos: SENA (sí/no), institución, terminado, tiempo con unidad, fecha último período, evidencia física, soporte ≤10 MB.
+- Idiomas: idioma + nivel (nativo/avanzado/intermedio/básico) para leer/hablar/escribir + soporte (sí/no).
+- Experiencia laboral: empresa, ocupación, cargo, lugar; marcar al menos una función; si falta, "Otras funciones" (hasta 500 caracteres); fechas o "Actualmente trabajo aquí"; logros. Sin soporte no se puede elegir al postularse.
+- Competencias laborales: búsqueda por código o nombre; se pueden elegir varias; adjuntar soporte por norma (sin soporte no se presenta).
+- Postulación (8 secciones): solo registros con soporte; una experiencia no se puede usar en dos secciones; se puede adjuntar soporte sin salir de la postulación.
+- Envío: no editable después; el sistema guarda copia; una postulación activa por convocatoria.
+- Después del envío: estado en pantalla "En revisión" (el manual dice "Inscrito"; hay inconsistencia).
+- Preselección: el manual no explica cómo aceptar/rechazar ni el plazo (pendiente confirmar con SENA).
+- Portal: la dirección pública aún no existe en internet; el SENA debe publicarla.
+- Seguridad: servicios de APE gratuitos; desconfiar de mensajes que pidan pagos/datos; incidente de seguridad reportado el 05/11/2026.
