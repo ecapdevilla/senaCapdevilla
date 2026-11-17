@@ -38,7 +38,7 @@
 - `[PENDIENTE]` – certificado de inglés (nivel A2 aprox.)
 
 ## Competencias laborales (normas)
-- `[PENDIENTE]` – norma SENA con certificado
+- `Downloads/comptencia laboral sena.pdf` – Norma 240201056: Orientar formación presencial (Nivel Avanzado), 25/08/2025
 
 ## Otros
 - `Downloads/2728-AA-099769_page-0001.jpg` (escaneado) – acta especialización

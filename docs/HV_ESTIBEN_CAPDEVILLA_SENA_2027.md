@@ -86,7 +86,10 @@
    - Soporte: `Documents/Ioner sas.pdf` (certificación 20/11/2024).
 
 ## 6. Competencias laborales (normas)
-- Norma de competencia laboral certificada por el SENA **[PENDIENTE DE DESCARGA]** (código y nombre por confirmar). Soporte: constancia/certificado SENA.
+- Norma: **Orientar formación presencial de acuerdo con procedimientos técnicos y normativa** – NIVEL AVANZADO.  
+  - Código: **240201056** – Versión: 2.  
+  - Fecha: 25/08/2025 (Centro de Servicios Financieros, Regional Distrito Capital).  
+  - Soporte: `Downloads/comptencia laboral sena.pdf`.
 
 ## 7. Postulación (8 secciones) – sugerencia de registros a presentar
 - Educación Formal: Ingeniería de Sistemas (y especialización/maestría si aplica).
