@@ -20,7 +20,7 @@
    - Soporte: `Pictures/diploma profesional.pdf` (escaneado) + tarjeta profesional `TAREJTA PROFESIONAL.pdf` (Matrícula Profesional No. 08255410506, expedida 08/01/2019)
 2. Fundación Universitaria del Área Andina – ESPECIALISTA EN PEDAGOGÍA Y DOCENCIA (Postgrado)  
    - Fecha de grado: 27/02/2025 (registro 50266, acta 1020, código 2728-AA-099769)  
-   - Soporte: `Diploma y acta de grado Especialista.pdf` (diploma + acta escaneados) + `ESPECIALIZACIÓN EN PEDAGOGÍA Y DOCENCIA.pdf` (constancia de matrícula)
+   - Soporte: `Diploma y acta de grado Especialista.pdf` (diploma + acta escaneados) + `ESPECIALIZACION EN PEDAGOGIA Y DOCENCIA.pdf` (constancia de matrícula)
 3. Fundación Universitaria del Área Andina – MAGÍSTER EN EDUCACIÓN PARA LA INNOVACIÓN PEDAGÓGICA (Postgrado)  
    - Fecha de grado: 02/09/2026 (registro 73126, acta 1047, código 2728-AA-129102)  
    - Soporte: `2728-AA-129102 (3).pdf` (diploma + acta escaneados) + `Acta_Grado_1047_73126.pdf` (acta escaneada) + `Maestria.pdf` (escaneado)

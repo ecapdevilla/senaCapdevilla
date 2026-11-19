@@ -4,7 +4,7 @@
 - `Pictures/diploma profesional.pdf` (escaneado) – Ingeniero de Sistemas (2018)
 - `TAREJTA PROFESIONAL.pdf` (escaneado) – Tarjeta profesional No. 08255410506 (08/01/2019)
 - `Downloads/Diploma y acta de grado Especialista.pdf` – Especialista en Pedagogía y Docencia (27/02/2025)
-- `Downloads/ESPECIALIZACIÓN EN PEDAGOGÍA Y DOCENCIA.pdf` – constancia de matrícula
+- `Downloads/ESPECIALIZACION EN PEDAGOGIA Y DOCENCIA.pdf` – constancia de matrícula
 - `Downloads/2728-AA-129102 (3).pdf` – Magíster en Educación para la Innovación Pedagógica (02/09/2026)
 - `Downloads/Acta_Grado_1047_73126.pdf` – acta de grado maestría
 - `Downloads/Maestria.pdf` (escaneado) – verificar
