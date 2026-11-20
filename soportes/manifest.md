@@ -46,8 +46,22 @@
 ## Otros
 - `soportes/archivos/otros/2728-AA-099769_page-0001.jpg` – acta especialización (escaneado) [origen: `Downloads/2728-AA-099769_page-0001.jpg`]
 
-## Notas
-- El sistema SENA admite PDF/JPG/PNG de hasta 10 MB por archivo.
-- Los archivos copiados al repo tienen nombres saneados (sin acentos/espacios) para facilitar el manejo en git.
-- Los nuevos papeles que vayan llegando se pueden agregar en `soportes/archivos/<categoria>/` y actualizar este manifest + INDICE.md.
-- `soportes/manifest.md` es el inventario completo; `soportes/archivos/INDICE.md` es el índice de los archivos copiados.
+## Documentos de prestación de servicios con el Estado (pendientes)
+Ver `soportes/archivos/estado_prestacion/README.md` para la lista completa.
+
+Pendientes típicos:
+- [ ] Certificado de afiliación a seguridad social (salud + pensión + ARL) – constancia de pagos.
+- [ ] Certificado de retención en la fuente.
+- [ ] Certificado de antecedentes (Policía Nacional).
+- [ ] Certificado de antecedentes disciplinarios (Procuraduría).
+- [ ] Certificado de antecedentes fiscales (Contraloría).
+- [ ] RUT (DIAN).
+- [ ] Certificado de Cámara de Comercio (si aplica).
+- [ ] Extractos bancarios (últimos 3–6 meses).
+- [ ] Constancia de pago de aportes parafiscales.
+- [ ] Certificado de experiencia con funciones y tiempo (contratista).
+- [ ] Declaración de bienes y rentas.
+- [ ] Certificado de no tener inhabilidades.
+- [ ] Certificado de cumplimiento de obligaciones tributarias.
+
+> Los archivos que lleguen se guardan en `soportes/archivos/estado_prestacion/` y se actualizan en este manifest + INDICE.md.
